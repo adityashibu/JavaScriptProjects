@@ -1,3 +1,4 @@
+/* Import Google font - Poppins */
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap');
 * {
   margin: 0;
@@ -115,6 +116,7 @@ header input {
   bottom: 13px;
   color: #888888;
 }
+
 @media screen and (max-width: 815px) {
   .wrapper {
     padding: 25px;
@@ -144,6 +146,7 @@ header input {
     width: 60px;
   }
 }
+
 @media screen and (max-width: 615px) {
   .piano-keys .key:nth-child(13),
   .piano-keys .key:nth-child(14),
