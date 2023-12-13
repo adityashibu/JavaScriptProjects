@@ -148,7 +148,7 @@ header input {
 }
 
 @media screen and (max-width: 615px) {
-  .piano-keys .key:nth-child(13),
+  .piano-keys .key:nth-child(13), 
   .piano-keys .key:nth-child(14),
   .piano-keys .key:nth-child(15),
   .piano-keys .key:nth-child(16),
